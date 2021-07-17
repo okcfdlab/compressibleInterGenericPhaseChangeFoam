@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "compressibleInterPhaseChangeFoamModule2timedDrB.C": "cpp",
+        "pEqn.H": "cpp"
+    }
+}
