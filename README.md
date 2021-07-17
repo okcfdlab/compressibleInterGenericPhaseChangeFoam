@@ -1,0 +1,1 @@
+compressibleInterGenericPhaseChangeFoam is a solver for OpenFOAM version 2.3 for simulating compressible cryogenic fluids with generic phase change consisting of inertially-driven and thermally-driven phase change.
